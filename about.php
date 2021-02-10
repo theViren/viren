@@ -38,7 +38,7 @@ function closeNav() {
 }
 </script><br><br><br><br>
 <h3 style="text-align:center; background-color: tomato; color:white; padding: 10px;"> About Me</h3>
-<img src="img/aboutme.jpg" style="width:100%;padding:7px;border: 2px solid yellow;">
+<img src="https://user-images.githubusercontent.com/72618659/107515134-a32df600-6bd0-11eb-9d63-b84651873f2d.jpg" style="width:100%;padding:7px;border: 2px solid yellow;">
 <div style="padding:10px 10px 10px 10px; background-color: white; margin: 10px; font-size: 20px; ">
 <p>I was born on 10 May 1999 and his primary education was in Kelwa town where he lived for 3-years. After that, some of the rest of his studies took place in his uncle's place.<br> 
 
