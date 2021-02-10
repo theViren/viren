@@ -19,7 +19,7 @@
 
 <div class="navbar" id="mynave" >
 <a><span style="cursor:pointer" onclick="openNav()">&#9776; </span></a>
-  <a href="index.php"><img src="img/v-icon.png" style="width:25px;height:25px;"></a>
+  <a href="index.php"><img src="https://user-images.githubusercontent.com/72618659/107515187-b345d580-6bd0-11eb-8ebc-ba4cb765a36d.png" style="width:25px;height:25px;"></a>
   <a href="index.php">Home</a>
    <a href="resume.php">Resume</a>
 
