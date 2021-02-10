@@ -22,7 +22,7 @@
 
 <div class="navbar" id="mynave" >
 <a><span style="cursor:pointer" onclick="openNav()">&#9776; </span></a>
-  <a href="index.php"><img src="img/v-icon.png" style="width:25px;height:25px;"></a>
+  <a href="index.php"><img src="![v-icon]" style="width:25px;height:25px;"></a>
   <a href="index.php">Home</a>
    <a href="resume.php">Resume</a>
 
