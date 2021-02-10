@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta property="og:image" content="http://theviren.coolpage.biz/img/pro.jpg"/>
 <meta property="og:description" content="See My Protofolio"/>
-<link rel="icon" type="image/png" href="img/v-icon.png"/>
+<link rel="icon" type="image/png" href="https://user-images.githubusercontent.com/72618659/107515187-b345d580-6bd0-11eb-8ebc-ba4cb765a36d.png"/>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <title>Virendra Profile</title>
@@ -64,7 +64,7 @@ function closeNav() {
 
 	
 </div>
-<a href="whatsapp://send?text=&#128071See My Resume%20&#128071%20http://theviren.coolpage.biz/index.html" data-action="share/whatsapp/share" class="float" target="_blank"><i class="fa fa-whatsapp my-float"></i>
+<a href="whatsapp://send?text=&#128071See My Resume%20&#128071%20https://theviren.herokuapp.com/" data-action="share/whatsapp/share" class="float" target="_blank"><i class="fa fa-whatsapp my-float"></i>
 </a>
 
 </body>
