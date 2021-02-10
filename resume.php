@@ -40,7 +40,7 @@ function closeNav() {
 </script><br><br>
 <h3 style="text-align:center; background-color: tomato; color:white; padding: 10px;">My Resume</h3>
 <img src="https://user-images.githubusercontent.com/72618659/107515173-afb24e80-6bd0-11eb-871f-892dbe50b7dc.jpg" style="width:100%"><br>
-<a href="whatsapp://send?text=&#128071See My Resume%20&#128071%20http://theviren.coolpage.biz/resume.html" data-action="share/whatsapp/share" class="float" target="_blank"><i class="fa fa-whatsapp my-float"></i>
+<a href="whatsapp://send?text=&#128071See My Resume%20&#128071%20https://theviren.herokuapp.com/resume.php" data-action="share/whatsapp/share" class="float" target="_blank"><i class="fa fa-whatsapp my-float"></i>
 </a>
 	</body>
 </html>
