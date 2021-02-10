@@ -22,7 +22,7 @@
 
 <div class="navbar" id="mynave" >
 <a><span style="cursor:pointer" onclick="openNav()">&#9776; </span></a>
-  <a href="index.php"><img src="![v-icon]" style="width:25px;height:25px;"></a>
+  <a href="index.php"><img src="https://user-images.githubusercontent.com/72618659/107515187-b345d580-6bd0-11eb-8ebc-ba4cb765a36d.png" style="width:25px;height:25px;"></a>
   <a href="index.php">Home</a>
    <a href="resume.php">Resume</a>
 
@@ -41,7 +41,7 @@ function closeNav() {
 </script>
 <br><br><br>
 <h1 style="font-size: 1.8em; text-align: center; color:white; background-color: tomato;">Welcome to My Profile</h1>
-<img id="image" src="img/pro.jpg" alt="Avatar" style="width:200px; "><br>
+<img id="image" src="https://user-images.githubusercontent.com/72618659/107515182-b214a880-6bd0-11eb-9a20-8fe178c5d814.jpg" alt="Avatar" style="width:200px; "><br>
 <div class="card">
   <div class="container1" style="font-size: .8em;">
     <h3><b>Name&nbsp;<i class="fa fa-vine"></i>:</b>&nbsp;<span>Virendra Singh Solanki</span></h3> 
