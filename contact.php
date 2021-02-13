@@ -12,8 +12,8 @@
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
   <a href="about.php">About Me</a>
   <a href="contact.php">Contact Me</a>
-  <a href="#">Clients</a>
-  <a href="#">Contact</a>	
+  <a href="Converter.php">Convertor Project</a>
+    <a href="Calculator.php">Calculator Project</a>
 
 </div>
 
