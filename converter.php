@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:image" content="http://theviren.coolpage.biz/img/pro.jpg"/>
+<meta property="og:description" content="See My Convertor Project"/>
+<link rel="icon" type="image/png" href="img/v-icon.png"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<title>Convertor Project</title>
+<link rel="stylesheet" href="css/prostyle.css">
+    </head>
+<body>
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="about.php">About Me</a>
+  <a href="contact.php">Contact Me</a>
+  <a href="Converter.php">Convertor Project</a>
+    <a href="Calculator.php">Calculator Project</a>
+
+</div>
+
+<div class="navbar" id="mynave" >
+<a><span style="cursor:pointer" onclick="openNav()">&#9776; </span></a>
+  <a href="index.php"><img src="img/v-icon.png" style="width:25px;height:25px;"></a>
+  <a href="index.php">Home</a>
+   <a href="resume.php">Resume</a>
+
+</div>  
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "50%";
+  document.getElementById("mynave").style.width = "0";
+  
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+  document.getElementById("mynave").style.width = "100%";
+}
+</script>
+<br><br><br>
+<h1 style="font-size: 1.8em; text-align: center; color:white; background-color: tomato;">Convertor Project</h1>
+<div style="text-align:center;">
+<p><input id="noone" type="text" placeholder="Enter Number" autocomplete="on" style="padding: 20px; width:50%;"></p>
+<label for="noone2" style="font-size: 40px; color:white;">From:-</label><br>
+<select id="mySelect2" style="padding: 20px; width:50%;">
+  <option value="decimal">Decimal</option>
+  <option value="binary">Binary</option>
+  <option value="octal">Octal</option>
+  <option value="hexadecimal">Hexa Decimal</option>
+</select><br><br>
+<label for="mySelect" style="font-size: 40px; color:white;">To:-</label><br>
+<select id="mySelect" style="padding: 20px; width:50%;">
+  <option value="decimal">Decimal</option>
+  <option value="binary">Binary</option>
+  <option value="octal">Octal</option>
+  <option value="hexadecimal">Hexa Decimal</option>
+</select><br><br>
+<button class="info" style="padding: 10px;"type="button" onclick="myConverter()">Convert</button>
+<p style="color:white; font-size: 20px;"><bdo dir="rtl" id="result"></bdo></p>
+<p id="result2" style="color:white; font-size: 20px;"></p>
+<div>
+<script>
+function reverseString(str) {
+  return (str === '') ? '' : reverseString(str.substr(1)) + str.charAt(0);
+}
+
+function binaryTodecimal(b){
+    var noone = document.getElementById("noone").value;
+     var temp= parseInt(noone);
+      var n = temp.toString().length- 1;
+   var result1 = 0;
+  for (i = 0; i<temp.toString().length; i++){
+  var digit = temp.toString().charAt(i);
+  result1 = result1 + (digit * Math.pow(2, n));
+    n--;
+  }
+ var b=reverseString(result1.toString());
+ return b;
+
+}
+function decimalTobinary(b){
+    var a = '';
+     var temp= parseInt(b);
+        
+        while (temp != 0){
+        var division=temp%2;
+        temp= parseInt(temp/2);
+        a = a + division;
+        }
+        var b=a;
+        return b;
+        console.log(b);
+}
+function decimalTooctal(b){
+    var a = '';
+    var temp= parseInt(b);
+      while (temp != 0){
+        var division=temp%8;
+        temp= parseInt(temp/8);
+        a = a + division;
+        }
+        var b=a;
+        return b;
+}
+function decimaltohexa(b){
+  var a='';
+   var hex=['0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F'];
+      var temp= parseInt(b);
+         while(temp != 0){
+  var division=temp%16;
+      temp= parseInt(temp/16);
+      a=a+hex[division]; 
+    }
+        var b=a;
+        return b;
+}
+function octalTodecimal(b){
+  var result1 = 0;
+  var temp= parseInt(b);
+  var n = temp.toString().length- 1;
+  for (i = 0; i<temp.toString().length; i++){
+    var digit = temp.toString().charAt(i);
+    result1 = result1 + (digit * Math.pow(8, n));
+    n--; 
+  }
+ a=reverseString(result1.toString());
+        var b=a;
+        return b;
+}
+function hexaTodecimal(b){
+var digits = '0123456789ABCDEF';  
+var hex=b.toString();
+var hex = hex.toUpperCase();  
+var val = 0;  
+for (i = 0; i < hex.toString().length; i++)  
+{  
+var c = hex.charAt(i);  
+var d = parseInt(digits.indexOf(c));  
+val = 16*val + d;  
+} 
+console.log(val);
+var b=reverseString(val.toString());
+return b; 
+
+}
+
+
+function myConverter() {
+
+  var noone = document.getElementById("noone").value;
+  var x = document.getElementById("mySelect").selectedIndex;
+  var y = document.getElementById("mySelect2").selectedIndex;
+  var temp= parseInt(noone);
+  var a = '';
+ var hex=['0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F'];
+ var n = temp.toString().length- 1;
+   var result1 = 0;
+  alert(document.getElementsByTagName("option")[x].value);
+
+
+if((document.getElementsByTagName("option")[y].value)=="binary"){
+  if((document.getElementsByTagName("option")[x].value)=="decimal"){
+  for (i = 0; i<temp.toString().length; i++){
+    var digit = temp.toString().charAt(i);
+    result1 = result1 + (digit * Math.pow(2, n));
+    n--; 
+  }
+ a=reverseString(result1.toString());
+}
+  else if((document.getElementsByTagName("option")[x].value)=="octal"){
+ var d= binaryTodecimal(temp);
+ a= decimalTooctal(reverseString(d.toString()));
+}
+else if((document.getElementsByTagName("option")[x].value)=="hexadecimal"){
+ var d= binaryTodecimal(temp);
+ a= decimaltohexa(reverseString(d.toString()));
+}
+
+}
+// binary loop ended
+if((document.getElementsByTagName("option")[y].value)=="octal"){
+  if((document.getElementsByTagName("option")[x].value)=="decimal"){
+    var b = temp;
+a=octalTodecimal(b);
+}
+  else if((document.getElementsByTagName("option")[x].value)=="binary"){
+  var b=octalTodecimal(temp);
+ a= decimalTobinary(reverseString(b.toString()));
+ console.log(a);
+}
+else if((document.getElementsByTagName("option")[x].value)=="hexadecimal"){
+  var b=octalTodecimal(temp);
+ a= decimaltohexa(reverseString(b.toString()));
+}
+
+}
+// octal loop ended
+if((document.getElementsByTagName("option")[y].value)=="hexadecimal"){
+  if((document.getElementsByTagName("option")[x].value)=="decimal"){
+    var b = noone;
+a=hexaTodecimal(b);
+}
+  else if((document.getElementsByTagName("option")[x].value)=="binary"){
+  var b=hexaTodecimal(noone);
+  a=decimalTobinary(reverseString(b.toString()));
+}
+else if((document.getElementsByTagName("option")[x].value)=="octal"){
+  var b=hexaTodecimal(noone);
+ a= decimalTooctal(reverseString(b.toString()));
+}
+
+}
+// hexadecimal loop ended
+
+
+
+if((document.getElementsByTagName("option")[y].value)=="decimal"){
+  if((document.getElementsByTagName("option")[x].value)=="binary")
+        {
+        while (temp != 0){
+        var division=temp%2;
+        temp= parseInt(temp/2);
+        a = a + division;
+        }
+        }
+
+
+  else if((document.getElementsByTagName("option")[x].value)=="octal"){
+    while (temp != 0){
+        var division=temp%8;
+        temp= parseInt(temp/8);
+        a = a + division;
+        }
+}
+else if((document.getElementsByTagName("option")[x].value)=="hexadecimal"){
+         while(temp != 0){
+  var division=temp%16;
+      temp= parseInt(temp/16);
+      a=a+hex[division]; 
+    }
+}
+}
+
+if((document.getElementsByTagName("option")[x].value)==document.getElementsByTagName("option")[y].value){
+  a=temp;
+       document.getElementById("result2").innerHTML= a;
+        }
+        else{
+                 
+       document.getElementById("result").innerHTML= a;
+        }
+}
+
+
+</script>
+<br><br><br>
+</body>
+</html>
