@@ -41,7 +41,7 @@ function closeNav() {
 </script>
 <br><br><br>
 <h1 style="font-size: 1.8em; text-align: center; color:white; background-color: tomato;">Convertor Project</h1>
-<div style="text-align:center;">
+<center><div style="text-align:center; border:2px solid white; border-radius: 25px; width:50%;">
 <p><input id="noone" type="text" placeholder="Enter Number" autocomplete="on" style="padding: 20px; width:50%;"></p>
 <label for="noone2" style="font-size: 40px; color:white;">From:-</label><br>
 <select id="mySelect2" style="padding: 20px; width:50%;">
@@ -57,10 +57,12 @@ function closeNav() {
   <option value="octal">Octal</option>
   <option value="hexadecimal">Hexa Decimal</option>
 </select><br><br>
+
 <button class="info" style="padding: 10px;"type="button" onclick="myConverter()">Convert</button>
 <p style="color:white; font-size: 20px;"><bdo dir="rtl" id="result"></bdo></p>
 <p id="result2" style="color:white; font-size: 20px;"></p>
 <div>
+</center>
 <script>
 function reverseString(str) {
   return (str === '') ? '' : reverseString(str.substr(1)) + str.charAt(0);
