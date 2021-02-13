@@ -41,7 +41,7 @@ function closeNav() {
 </script>
 <br><br><br>
 <h1 style="font-size: 1.8em; text-align: center; color:white; background-color: tomato;">Convertor Project</h1>
-<center><div style="text-align:center; border:2px solid white; border-radius: 25px; width:70%;">
+<center><div style="text-align:center; border:2px solid white; border-radius: 25px; width:90%;">
 <p><input id="noone" type="text" placeholder="Enter Number" autocomplete="on" style="padding: 20px; width:50%;"></p>
 <label for="noone2" style="font-size: 40px; color:white;">From:-</label><br>
 <select id="mySelect2" style="padding: 20px; width:50%;">
