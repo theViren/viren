@@ -45,5 +45,6 @@ Some years, his family shifted to Bhilwara where i studied up to class 8 at Happ
 
 He studied her High School with Subhash Public Senior Secondary School, Kankroli. Where he made 84% in the 12th Rbse Board. After this, he did B.Tech from the Electronics branch due to an interest in engineering.</p>
 </div>
+  <div class="powr-social-feed" id="c17b4d0a_1613658678"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 </body>
 </html>
