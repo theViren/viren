@@ -39,25 +39,7 @@ function closeNav() {
 <h3 style="text-align:center; background-color: tomato; color:white; padding: 10px;">Contact Me</h3>
 
 <div class="container">
-  <form action="/action_page.php">
-    <label for="fname">First Name</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name..">
-
-    <label for="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-
-    <label for="country">Country</label>
-    <select id="country" name="country">
-      <option value="india">India</option>
-      <option value="usa">USA</option>
-      <option value="others">Others</option>
-    </select>
-
-    <label for="subject">Subject</label>
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-
-    <input type="submit" value="Submit">
-  </form>
+<div class="powr-form-builder" id="7544cfc9_1613658260"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 </div>
 </body>
 </html>
