@@ -65,8 +65,7 @@ function closeNav() {
 	
 </div>
 
-<div class='embedsocial-instagram' data-ref="24aa806333aec68b753f82ddf905fe3a5bb264d2"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/in.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialInstagramScript"));</script>
-
+<div class="powr-social-feed" id="c17b4d0a_1613658678"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 <div class="powr-hit-counter" id="6cbce95a_1613658715"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 <a href="whatsapp://send?text=&#128071See My Resume%20&#128071%20https://theviren.herokuapp.com/" data-action="share/whatsapp/share" class="float" target="_blank"><i class="fa fa-whatsapp my-float"></i>
 </a>
