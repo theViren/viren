@@ -64,7 +64,7 @@ function closeNav() {
 
 	
 </div>
-<img id="image" src="https://user-images.githubusercontent.com/72618659/108461902-9f216880-72a1-11eb-9eb9-7ef8304bcf35.png" alt="Avatar" style="width:200px; "><br>
+<img src="https://user-images.githubusercontent.com/72618659/108461902-9f216880-72a1-11eb-9eb9-7ef8304bcf35.png" alt="Avatar" style="width:200px; "><br>
 
 <div class="powr-social-feed" id="c17b4d0a_1613658678"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 <div class="powr-hit-counter" id="6cbce95a_1613658715"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
