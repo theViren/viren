@@ -64,35 +64,9 @@ function closeNav() {
 
 	
 </div>
-	<br>
 
-<div class="container">	
-<div id="instagram-feed-demo" class="instagram_feed"></div>
-</div>
+<div class='embedsocial-instagram' data-ref="24aa806333aec68b753f82ddf905fe3a5bb264d2"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/in.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialInstagramScript"));</script>
 
-<script src="https://www.jqueryscript.net/demo/Instagram-Photos-Without-API-instagramFeed/jquery.instagramFeed.js"></script>
-<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
-<script>
- (function($){
-		$(window).on('load', function(){
-			$.instagramFeed({
-				'username': 'callofduty',
-				'container': "#instagram-feed-demo",
-				'display_profile': true,
-				'display_biography': true,
-				'display_gallery': true,
-				'get_raw_json': false,
-				'callback': null,
-				'styling': true,
-				'items': 36,
-				'items_per_row': 6,
-				'margin': 0.3
-			});
-		});
-	})(jQuery);
-  </script>
-
-<br></br>
 <div class="powr-hit-counter" id="6cbce95a_1613658715"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 <a href="whatsapp://send?text=&#128071See My Resume%20&#128071%20https://theviren.herokuapp.com/" data-action="share/whatsapp/share" class="float" target="_blank"><i class="fa fa-whatsapp my-float"></i>
 </a>
