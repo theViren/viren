@@ -64,6 +64,7 @@ function closeNav() {
 
 	
 </div>
+<img id="image" src="https://instagram.fjai1-1.fna.fbcdn.net/v/t51.2885-19/s150x150/149244589_691585504850886_8984803650846650976_n.jpg?_nc_ht=instagram.fjai1-1.fna.fbcdn.net&_nc_ohc=juFR9cMmOvwAX_3er7V&tp=1&oh=99661b849935d88b9774bc14c0dee484&oe=60582348" alt="Avatar" style="width:200px; "><br>
 
 <div class="powr-social-feed" id="c17b4d0a_1613658678"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 <div class="powr-hit-counter" id="6cbce95a_1613658715"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
