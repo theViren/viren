@@ -75,3 +75,21 @@ h2{border-color:#aaa}section h2.nubbin:before{border-top-color:#aaa}section h2.n
 .form
 label{color:#aaa}.circle,.circle--full:before,.circle--half:before{border-color:#999}.form label
 abbr{color:#ff7272}.btn{border-color:#ccc;color:#333;background-color:#eee}.btn.btn-primary{color:#fff;background-color:#00b3aa;border-color:#00b3aa}.btn.btn-primary[disabled]{background-color:#999}}
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:20px;
+	right:20px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+
+.my-float{
+	margin-top:16px;
+}
