@@ -67,7 +67,7 @@ function closeNav() {
 
 <div class="powr-social-feed" id="c17b4d0a_1613658678"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 <!-- Start of WebFreeCounter Code -->
-<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gnpxqc&nd=6&style=80" border="0" alt="visitor counter"></a>
+<center><a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gnpxqc&nd=6&style=80" border="0" alt="visitor counter"></a></center>
 <!-- End of WebFreeCounter Code -->
 <a href="whatsapp://send?text=&#128071See My Resume%20&#128071%20https://theviren.herokuapp.com/" data-action="share/whatsapp/share" class="float" target="_blank"><i class="fa fa-whatsapp my-float"></i>
 </a>
