@@ -3,10 +3,21 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 	<meta charset="utf-8"><title>Virendra Singh | Developer | Designer</title>
+	<link rel="shortcut icon" href="favicon.ico"/>
+	<link rel=canonical href="index.html">
 	<meta name=viewport content="width=device-width, initial-scale=1, minimal-ui"/>
 	<meta name=keywords content="Virendra Singh Solanki, Virendrapal singh solanki, viren singh " />
 	<meta name=Description content="Web Development Enthusiast!!! Presently working as a Research Analyst with Arcgate. Specialized in front-end web development using HTML5, CSS3, JavaScript etc." />
-	<meta property="og:image" content="http://theviren.coolpage.biz/img/pro.jpg"/>
+	<link rel=apple-touch-icon href="https://telegra.ph/file/db209ee57366824386338.jpg"><link rel="shortcut icon" href="https://user-images.githubusercontent.com/72618659/107515187-b345d580-6bd0-11eb-8ebc-ba4cb765a36d.png">
+	<link rel="shortcut icon" sizes="32x32" href="https://telegra.ph/file/db209ee57366824386338.jpg"><link rel="shortcut icon" sizes="48x48" href="https://user-images.githubusercontent.com/72618659/107515187-b345d580-6bd0-11eb-8ebc-ba4cb765a36d.png">
+	<link rel="shortcut icon" sizes="64x64" href="https://telegra.ph/file/db209ee57366824386338.jpg"><link rel="shortcut icon" sizes="196x196" href="https://user-images.githubusercontent.com/72618659/107515187-b345d580-6bd0-11eb-8ebc-ba4cb765a36d.png">
+	<meta name=msapplication-TileImage content="https://telegra.ph/file/db209ee57366824386338.jpg"><meta name=msapplication-TileColor content="#5b6d83">
+	<meta name=apple-mobile-web-app-capable content=yes><meta name=mobile-web-app-capable content=yes><meta property="og:title" content="Virendra Singh | Developer | Designer"/>
+
+	<meta property="og:type" content=website/><meta property="og:url" content="mainprofile.php"/>
+	<meta property="og:image" content="https://telegra.ph/file/db209ee57366824386338.jpg"/>
+
+	<meta property="og:description" content="Web Development Enthusiast!!! Presently working as a Research Analyst with Arcgate. Specialized in front-end web development using HTML5, CSS3, JavaScript etc."/>
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i" rel=stylesheet>
 	<link rel=stylesheet href="font-awesome.css"/>
 	<link rel=stylesheet href="bb.css"/>
