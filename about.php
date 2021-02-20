@@ -16,7 +16,7 @@
 
 	<meta property="og:type" content=website/><meta property="og:url" content="mainprofile.php"/>
 	<meta property="og:image" content="https://telegra.ph/file/db209ee57366824386338.jpg"/>
-
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 	<meta property="og:description" content="Web Development Enthusiast!!! Presently working as a Research Analyst with Arcgate. Specialized in front-end web development using HTML5, CSS3, JavaScript etc."/>
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i" rel=stylesheet>
 	<link rel=stylesheet href="font-awesome.css"/>
