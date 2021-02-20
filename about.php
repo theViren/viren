@@ -1,50 +1,48 @@
-
 <!DOCTYPE html>
-<html>
+<html lang=en>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="icon" type="image/png" href="https://user-images.githubusercontent.com/72618659/107515187-b345d580-6bd0-11eb-8ebc-ba4cb765a36d.png"/>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-<title>Virendra Profile</title>
-<link rel="stylesheet" href="css/prostyle.css">
+	<meta charset="utf-8"><title>Virendra Singh | Developer | Designer</title>
+	<meta name=viewport content="width=device-width, initial-scale=1, minimal-ui"/>
+	<meta name=keywords content="Virendra Singh Solanki, Virendrapal singh solanki, viren singh " />
+	<meta name=Description content="Web Development Enthusiast!!! Presently working as a Research Analyst with Arcgate. Specialized in front-end web development using HTML5, CSS3, JavaScript etc." />
+	<meta property="og:image" content="http://theviren.coolpage.biz/img/pro.jpg"/>
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i" rel=stylesheet>
+	<link rel=stylesheet href="font-awesome.css"/>
+	<link rel=stylesheet href="bb.css"/>
 </head>
-<body>
-<div id="mySidenav" class="sidenav">
-  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="about.php">About Me</a>
-  <a href="contact.php">Contact Me</a>
-  <a href="Converter.php">Convertor Project</a>
-    <a href="Calculator.php">Calculator Project</a>
-</div>
 
-<div class="navbar" id="mynave" >
-<a><span style="cursor:pointer" onclick="openNav()">&#9776; </span></a>
-  <a href="index.php"><img src="https://user-images.githubusercontent.com/72618659/107515187-b345d580-6bd0-11eb-8ebc-ba4cb765a36d.png" style="width:25px;height:25px;"></a>
-  <a href="index.php">Home</a>
-   <a href="resume.php">Resume</a>
+<body itemscope itemtype="http://schema.org/Person"><header class=hidden-print>
+		<div class=container><div class=clearfix><div class="header__heading"><h1 itemprop=name><span class=first-name>Virendra </span><span class=last-name>Singh</span></h1><div class=sr-only aria-hidden=true><a href="index.html" itemprop=url>http://www.abhinayrathore.com</a><span itemprop=image>https://telegra.ph/file/db209ee57366824386338.jpg</span><span itemprop=affiliation itemscope itemtype="http://schema.org/Organization"><span itemprop=name>Indian Rajputs</span><span itemprop=url>http://www.indianrajputs.com</span></span></div><h2>Developer / Designer</h2><div class="header__social"><a href="https://www.linkedin.com/in/virendra-singh-solanki-9b6375187/" itemprop=url title=LinknedIn><span class=sr-only>LinkedIn</span><i class="fa fa-linkedin" aria-hidden=true></i></a><a href="https://www.facebook.com/virendra.singhsolanki.127" itemprop=url title=Facebook><span class=sr-only>Facebook</span><i class="fa fa-facebook" aria-hidden=true></i></a><a href="https://www.instagram.com/thevirendrapal/" itemprop=url title=Instagram><span class=sr-only>Instagram</span><i class="fa fa-instagram" aria-hidden=true></i></a><a href="http://github.com/theViren" itemprop=url title=GitHub><span class=sr-only>Github</span><i class="fa fa-github" aria-hidden=true></i></a><a href="#contact" title=Email><span class=sr-only>Send email</span><i class="fa fa-envelope-o" aria-hidden=true></i></a></div></div><div class="header__banner" aria-hidden=true><img src="coding-banner.svg" alt=banner class="header__banner-image"></div></div></div></header>
 
-</div>	
-<script>
-function openNav() {
-  document.getElementById("mySidenav").style.width = "50%";
-  document.getElementById("mynave").style.width = "0";
-  
-}
+		<main><div class=container><div class="row clearfix"><section><h2 class=nubbin>Job Timeline<i class="fa fa-desktop" aria-hidden=true></i></h2><div class=section--body><ol class=timeline><li class=timeline__item itemprop=worksFor itemscope itemtype="http://schema.org/Corporation"><h3 class=timeline__heading itemprop=name>Arcgate</h3><div class=timeline__subheading><h4>Research Analyst</h4><h5>March 2021 &#8212; Present</h5></div><div class=timeline__body><p>Working on the <a href="https://www.arcgate.com" target=_blank rel=noopener>Arcgate</a> Project.</p></div></li>
+		<li class=timeline__item itemprop=worksFor itemscope itemtype="http://schema.org/Corporation"><h3 class=timeline__heading itemprop=name>Blogging</h3><div class=timeline__subheading><h4>SEO Executive</h4><h5>Sep 2018 &#8212; Dec 2020</h5></div><div class=timeline__body><p>Worked on my personal Websites, blogs.</p></div></li>
 
-function closeNav() {
-  document.getElementById("mySidenav").style.width = "0";
-  document.getElementById("mynave").style.width = "100%";
-}
-</script><br><br><br><br>
-<h3 style="text-align:center; background-color: tomato; color:white; padding: 10px;"> About Me</h3>
-<img src="https://user-images.githubusercontent.com/72618659/107515134-a32df600-6bd0-11eb-9d63-b84651873f2d.jpg" style="width:100%;padding:7px;border: 2px solid yellow;">
-<div style="padding:10px 10px 10px 10px; background-color: white; margin: 10px; font-size: 20px; ">
-<p>I was born on 10 May 1999 and his primary education was in Kelwa town where he lived for 3-years. After that, some of the rest of his studies took place in his uncle's place.<br> 
+		</ol></div></section></div>
 
-Some years, his family shifted to Bhilwara where i studied up to class 8 at Happy Days Secondary School, Bhilwara. After this Virendra Singh Solanki went to Amet and completed his Secondary education from Tulsi Amrit Vidhyapeeth School. Where he made 87% in the 10th RBSE Board.<br>
+        <div class="row clearfix"><section class="section__small">
+         <h2>Skills<i class="fa fa-code" aria-hidden=true></i></h2>
+			<div class=section--body><table class=skills><tr><th>JavaScript</th><td><span class=sr-only>2.5 out of 5</span><span class="circle circle--full" aria-hidden=true></span><span class="circle circle--full" aria-hidden=true></span><span class="circle circle--full" aria-hidden=true></span><span class="circle circle--full" aria-hidden=true></span><span class="circle circle--half" aria-hidden=true></span></td></tr><tr><th>HTML</th><td><span class=sr-only>3.5 out of 5</span><span class="circle circle--full" aria-hidden=true></span><span class="circle circle--full" aria-hidden=true></span><span class="circle circle--full" aria-hidden=true></span><span class="circle circle--full" aria-hidden=true></span><span class="circle circle--half" aria-hidden=true></span></td></tr><tr><th>CSS</th><td><span class=sr-only>3.5 out of 5</span><span class="circle circle--full" aria-hidden=true></span><span class="circle circle--full" aria-hidden=true></span><span class="circle circle--full" aria-hidden=true></span><span class="circle circle--full" aria-hidden=true></span><span class="circle circle--half" aria-hidden=true></span></td></tr><tr><th>Java Core</th><td><span class=sr-only>3.0 out of 5</span><span class="circle circle--full" aria-hidden=true></span><span class="circle circle--full" aria-hidden=true></span><span class="circle circle--full" aria-hidden=true></span><span class="circle circle--full" aria-hidden=true></span><span class="circle circle--half" aria-hidden=true></span></td></tr><tr><th>SEO</th><td><span class=sr-only>4.5 out of 5</span><span class="circle circle--full" aria-hidden=true></span><span class="circle circle--full" aria-hidden=true></span><span class="circle circle--full" aria-hidden=true></span><span class="circle circle--full" aria-hidden=true></span><span class=circle aria-hidden=true></span></td></tr><tr><th>Digital Marketing</th><td><span class=sr-only>4.0 out of 5</span><span class="circle circle--full" aria-hidden=true></span><span class="circle circle--full" aria-hidden=true></span><span class="circle circle--full" aria-hidden=true></span><span class="circle circle--full" aria-hidden=true></span><span class="circle circle--half" aria-hidden=true></span></td></tr></table></div></section>
 
-He studied her High School with Subhash Public Senior Secondary School, Kankroli. Where he made 84% in the 12th Rbse Board. After this, he did B.Tech from the Electronics branch due to an interest in engineering.</p>
-</div>
-  <div class="powr-social-feed" id="c17b4d0a_1613658678"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
-</body>
+			<section class="section__wide">
+				<h2 class=nubbin>Education<i class="fa fa-graduation-cap" aria-hidden=true></i>
+		</h2>
+		<div class=section--body><ol class=timeline><li class=timeline__item itemprop=alumniOf itemscope itemtype="http://schema.org/EducationalOrganization"><h3 class=timeline__heading itemprop=name>M.L.V Textile&amp;Engineering College</h3><div class=timeline__subheading><h4>Bachelor of Technology</h4><h5>2016 &#8212; 2020</h5></div><div class=timeline__body><p>Electronics&amp;Communication</p><address>Bhilwara, Rajasthan</address></div>
+		</li>
+		<li class=timeline__item itemprop=alumniOf itemscope itemtype="http://schema.org/EducationalOrganization"><h3 class=timeline__heading itemprop=name>Subhash Public School</h3><div class=timeline__subheading><h4>PCM</h4><h5>2014 &#8212; 2016</h5></div><div class=timeline__body><p>12th Board</p><address>Kankroli, Rajsamand, Rajasthan</address></div></li>
+		<li class=timeline__item itemprop=alumniOf itemscope itemtype="http://schema.org/EducationalOrganization"><h3 class=timeline__heading itemprop=name>Tulsi Amrit School</h3><div class=timeline__subheading><h4>All</h4><h5>2013 &#8212; 2014</h5></div><div class=timeline__body><p>10th Board</p><address>Amet, Rajsamand, Rajasthan</address></div></li>
+
+	</ol></div></section></div>
+
+		<div class="row clearfix hidden-print"><section class="section__small"><h2>Connect<i class="fa fa-handshake-o" aria-hidden=true></i></h2><p class=section--body><a href="https://www.linkedin.com/in/virendra-singh-solanki-9b6375187/" class=linkedin title=LinknedIn><span class=sr-only>LinkedIn</span><span class="fa-stack fa-lg"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-linkedin fa-stack-1x fa-inverse"></i></span></a><a href="https://www.facebook.com/virendra.singhsolanki.127" class=facebook title=Facebook><span class=sr-only>Facebook</span><span class="fa-stack fa-lg"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x fa-inverse"></i></span></a><a href="https://www.instagram.com/thevirendrapal/" class=instagram title=Instagram><span class=sr-only>Instagram</span><span class="fa-stack fa-lg"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-instagram fa-stack-1x fa-inverse"></i></span></a><a href="https://github.com/theViren" class=github title=GitHub><span class=sr-only>Github</span><span class="fa-stack fa-lg"><i class="fa fa-square fa-stack-2x"></i><i class="fa fa-github-alt fa-stack-1x fa-inverse"></i></span></a></p>
+		<p><button type=button class="btn btn-primary" onclick="window.open('https://drive.google.com/uc?export=download&id=1_bdurHlhThemFm3OFwFV8z-DeKgGXSD_');"><i class="fa fa-print" aria-hidden=true></i> Download Résumé</button></p>
+	    </section>
+	    <section class="section__wide" id=contact><h2>Contact<i class="fa fa-envelope" aria-hidden=true></i></h2><div class=section--body><div class="alert alert--success" role=alert id=contact-success hidden><i class="fa fa-check-circle"></i> Thank you for contacting me. I&apos;ll try and get back to you as soon as possible.</div><div class="alert alert--error" role=alert id=contact-error hidden><i class="fa fa-exclamation-circle"></i> An unexpected error occurred! Please try again after some time.</div>
+
+	<form class=form id=contact-form method=POST action="#"><div class=left-col><div class=form-group><label for=name>Your Name <abbr title="Required field"><sup><i class="fa fa-asterisk"></i></sup></abbr></label><input type=text required=required class=form-control id=name maxlength="50" placeholder="Enter name" spellcheck=false></div><div class=form-group><label for=email>Your Email <abbr title="Required field"><sup><i class="fa fa-asterisk"></i></sup></abbr></label><input type=email required=required class=form-control id=email maxlength="100" placeholder="Enter email" spellcheck=false></div><div class=form-group><label for=phone>Your Phone <span>(Optional)</span></label><input type=text class=form-control maxlength="20" id=phone placeholder=""></div></div><div class=right-col><div class=form-group><label for=message>Message <abbr title="Required field"><sup><i class="fa fa-asterisk"></i></sup></abbr></label><textarea class=form-control required=required id=message maxlength="4000" spellcheck=true></textarea></div><div class=text-align-right><input type=hidden name=token id=csrf-token value="42834126460356f0beb72b0732e202a4af8aa75c0dcd54c9e3143399656620ee" /><button type=reset class="btn btn-default"><i class="fa fa-undo" aria-hidden=true></i> Reset</button><button type=submit id=send-email class="btn btn-primary"><span class=default><i class="fa fa-envelope" aria-hidden=true></i> Send Email</span><span class=loading><i class="fa fa-spinner fa-spin fa-fw" aria-hidden=true></i> Sending Email</span></button></div></div></form></div></section></div></div>
+		</main>
+		<footer class=hidden-print><div class=container><i class="fa fa-copyright" aria-hidden=true></i> 2021 Virendra Singh. All rights reserved.</div>
+		</footer>
+	</body>
+
 </html>
