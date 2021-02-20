@@ -54,7 +54,7 @@ function closeNav() {
 </div><br><br>
 <div style="">
 	
-	<center><button class="info" onclick="window.open('https://sites.google.com/view/onlyinfo/About-Virendra-Singh-Solanki'); "><i style="float: left;" class="fa fa-info-circle"></i>&nbsp;Know About Me</button></center><br>
+	<center><button class="info" onclick="window.open('about.php'); "><i style="float: left;" class="fa fa-info-circle"></i>&nbsp;Know About Me</button></center><br>
 	<center><button class="info" onclick="window.open('https://www.linkedin.com/in/virendra-singh-solanki-9b6375187/');"><i style="float: left;" class="fa fa-linkedin"></i>&nbsp;Check My LinkedIn</button></center><br>
 	<center><button class="info" onclick="window.open('https://www.instagram.com/thevirendrapal');"><i style="float: left;" class="fa fa-instagram"></i>&nbsp;Check My Instagram</button></center><br>
 	<center><button class="info" onclick="window.open('https://www.facebook.com/virendra.singhsolanki.127');"><i style="float: left;" class="fa fa-facebook"></i>&nbsp;Check My Facebook</button></center><br>
