@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta property="og:image" content="http://theviren.coolpage.biz/img/pro.jpg"/>
+<meta property="og:image" content="https://telegra.ph/file/db209ee57366824386338.jpg"/>
 <meta property="og:description" content="See My Protofolio"/>
 <link rel="icon" type="image/png" href="https://user-images.githubusercontent.com/72618659/107515187-b345d580-6bd0-11eb-8ebc-ba4cb765a36d.png"/>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
@@ -40,8 +40,8 @@ function closeNav() {
 }
 </script>
 <br><br><br>
-<h1 style="font-size: 1.8em; text-align: center; color:white; background-color: tomato;">Welcome to My Profile</h1>
-<img id="image" src="https://user-images.githubusercontent.com/72618659/107515182-b214a880-6bd0-11eb-9a20-8fe178c5d814.jpg" alt="Avatar" style="width:200px; "><br>
+<h1 style="font-size: 1.8em; text-align: center; color:white; background-color: tomato; padding:10px;">Welcome to My Profile</h1>
+<img id="image" src="https://telegra.ph/file/db209ee57366824386338.jpg" alt="Avatar" style="width:200px; "><br>
 <div class="card">
   <div class="container1" style="font-size: .8em;">
     <h3><b>Name&nbsp;<i class="fa fa-vine"></i>:</b>&nbsp;<span>Virendra Singh Solanki</span></h3> 
@@ -64,7 +64,6 @@ function closeNav() {
 
 	
 </div>
-<center><img src="https://user-images.githubusercontent.com/72618659/108461902-9f216880-72a1-11eb-9eb9-7ef8304bcf35.png" alt="Avatar" style="width:200px; "></center><br>
 
 <div class="powr-social-feed" id="c17b4d0a_1613658678"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 <div class="powr-hit-counter" id="6cbce95a_1613658715"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
