@@ -6,6 +6,9 @@
 	<link rel="shortcut icon" href="favicon.ico"/>
 	<link rel=canonical href="index.html">
 	<meta name=viewport content="width=device-width, initial-scale=1, minimal-ui"/>
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/prostyle.css">
 	<meta name=keywords content="Virendra Singh Solanki, Virendrapal singh solanki, viren singh " />
 	<meta name=Description content="Web Development Enthusiast!!! Presently working as a Research Analyst with Arcgate. Specialized in front-end web development using HTML5, CSS3, JavaScript etc." />
 	<link rel=apple-touch-icon href="https://telegra.ph/file/db209ee57366824386338.jpg"><link rel="shortcut icon" href="https://user-images.githubusercontent.com/72618659/107515187-b345d580-6bd0-11eb-8ebc-ba4cb765a36d.png">
@@ -22,6 +25,35 @@
 	<link rel=stylesheet href="bb.css"/></head>
 
 	<body itemscope itemtype="http://schema.org/Person"><header class=hidden-print>
+		<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="about.php">About Me</a>
+  <a href="contact.php">Contact Me</a>
+  <a href="Converter.php">Convertor Project</a>
+    <a href="Calculator.php">Calculator Project</a>	
+
+</div>
+
+<div class="navbar" id="mynave" >
+<a><span style="cursor:pointer" onclick="openNav()">&#9776; </span></a>
+  <a href="index.php"><img src="https://user-images.githubusercontent.com/72618659/107515187-b345d580-6bd0-11eb-8ebc-ba4cb765a36d.png" style="width:25px;height:25px;"></a>
+  <a href="index.php">Home</a>
+   <a href="resume.php">Resume</a>
+
+</div>	
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "50%";
+  document.getElementById("mynave").style.width = "0";
+  
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+  document.getElementById("mynave").style.width = "100%";
+}
+</script>
+<br><br><br>
 		<div class=container><div class=clearfix><div class="header__heading"><h1 itemprop=name><span class=first-name>Virendra </span><span class=last-name>Singh</span></h1><div class=sr-only aria-hidden=true><a href="index.html" itemprop=url>http://www.abhinayrathore.com</a><span itemprop=image>https://telegra.ph/file/db209ee57366824386338.jpg</span><span itemprop=affiliation itemscope itemtype="http://schema.org/Organization"><span itemprop=name>Indian Rajputs</span><span itemprop=url>http://www.indianrajputs.com</span></span></div><h2>Developer / Designer</h2><div class="header__social"><a href="https://www.linkedin.com/in/virendra-singh-solanki-9b6375187/" itemprop=url title=LinknedIn><span class=sr-only>LinkedIn</span><i class="fa fa-linkedin" aria-hidden=true></i></a><a href="https://www.facebook.com/virendra.singhsolanki.127" itemprop=url title=Facebook><span class=sr-only>Facebook</span><i class="fa fa-facebook" aria-hidden=true></i></a><a href="https://www.instagram.com/thevirendrapal/" itemprop=url title=Instagram><span class=sr-only>Instagram</span><i class="fa fa-instagram" aria-hidden=true></i></a><a href="http://github.com/theViren" itemprop=url title=GitHub><span class=sr-only>Github</span><i class="fa fa-github" aria-hidden=true></i></a><a href="#contact" title=Email><span class=sr-only>Send email</span><i class="fa fa-envelope-o" aria-hidden=true></i></a></div></div><div class="header__banner" aria-hidden=true><img src="coding-banner.svg" alt=banner class="header__banner-image"></div></div></div></header><div id=print-header aria-hidden=true><div class=container><div class="row clearfix"><table><tr><td colspan="3"><h1>Virendra Singh Solanki</h1></td><td class=qr-code colspan="1" rowspan="2"><img src="data:image/png;base64,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" alt="Scan QR Code" /></td></tr><tr class=small><td><i class="fa fa-envelope fa-fw"></i>&#97;&#98;&#104;&#105;&#110;&#97;&#121;&#114;&#97;&#116;&#104;&#111;&#114;&#101;&#64;hot&#109;&#97;&#105;&#108;.com</td><td class=center><i class="fa fa-phone fa-fw"></i>&#57;&#49;3-&#57;0&#56;-&#57;8&#49;4</td><td class=right><i class="fa fa-globe fa-fw"></i>abhinayrathore.com</td></tr></table></div></div></div>
 		<main><div class=container><div class="row clearfix"><section><h2 class=nubbin>Job Timeline<i class="fa fa-desktop" aria-hidden=true></i></h2><div class=section--body><ol class=timeline><li class=timeline__item itemprop=worksFor itemscope itemtype="http://schema.org/Corporation"><h3 class=timeline__heading itemprop=name>Arcgate</h3><div class=timeline__subheading><h4>Research Analyst</h4><h5>March 2021 &#8212; Present</h5></div><div class=timeline__body><p>Working on the <a href="https://www.arcgate.com" target=_blank rel=noopener>Arcgate</a> Project.</p></div></li>
 		<li class=timeline__item itemprop=worksFor itemscope itemtype="http://schema.org/Corporation"><h3 class=timeline__heading itemprop=name>Blogging</h3><div class=timeline__subheading><h4>SEO Executive</h4><h5>Sep 2018 &#8212; Dec 2020</h5></div><div class=timeline__body><p>Worked on my personal Websites, blogs.</p></div></li>
