@@ -41,7 +41,7 @@ function closeNav() {
 </script>
 <br><br><br>
 <h1 style="font-size: 1.8em; text-align: center; color:white; background-color: tomato; padding:10px;">Welcome to My Profile</h1>
-<img id="image" src="https://instagram.fjdh1-1.fna.fbcdn.net/v/t51.2885-19/s150x150/201034794_516810572796270_3065167807217419769_n.jpg?tp=1&_nc_ht=instagram.fjdh1-1.fna.fbcdn.net&_nc_ohc=-aLzi5c354YAX_yjPzX&edm=ABfd0MgBAAAA&ccb=7-4&oh=ed93dc1385b284f88890ff45d6b2f400&oe=60D5E681&_nc_sid=7bff83" alt="Avatar" style="width:200px; "><br>
+<img id="image" src="https://telegra.ph/file/5bce2623751411ba815f9.jpg" alt="Avatar" style="width:200px; "><br>
 <div class="card">
   <div class="container1" style="font-size: .8em;">
     <h3><b>Name&nbsp;<i class="fa fa-vine"></i>:</b>&nbsp;<span>Virendra Singh Solanki</span></h3> 
