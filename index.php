@@ -54,13 +54,13 @@ function closeNav() {
 </div><br><br>
 <div style="">
 	
-	<center><button class="info" onclick="window.open('about.php'); "><i style="float: left;" class="fa fa-info-circle"></i>&nbsp;Know About Me</button></center><br>
-	<center><button class="info" onclick="window.open('https://www.linkedin.com/in/virendra-singh-solanki-9b6375187/');"><i style="float: left;" class="fa fa-linkedin"></i>&nbsp;Check My LinkedIn</button></center><br>
-	<center><button class="info" onclick="window.open('https://www.instagram.com/thevirendrapal');"><i style="float: left;" class="fa fa-instagram"></i>&nbsp;Check My Instagram</button></center><br>
-	<center><button class="info" onclick="window.open('https://www.facebook.com/virendra.singhsolanki.127');"><i style="float: left;" class="fa fa-facebook"></i>&nbsp;Check My Facebook</button></center><br>
-	<center><button class="info" onclick="window.open('https://wa.me/+918875573277');"><i style="float: left;" class="fa fa-whatsapp"></i>&nbsp;Whatsapp Me</button></center><br>
-	<center><button class="info" onclick="window.open('https://mail.google.com/mail/?view=cm&fs=1&to=viren.353.vss@gmail.com');"><i style="float: left;" class="fa fa-envelope"></i>&nbsp;Mail Me</button></center><br>
-	<center><button class="info" onclick="window.open('https://drive.google.com/file/d/1_bdurHlhThemFm3OFwFV8z-DeKgGXSD_/view?usp=sharing');"><i style="float: left;" class="fa fa-eye"></i>&nbsp;See My Resume</button></center><br>
+	<center><button class="info" onclick="window.open('https://bit.ly/virenaboutme'); "><i style="float: left;" class="fa fa-info-circle"></i>&nbsp;Know About Me</button></center><br>
+	<center><button class="info" onclick="window.open('https://bit.ly/virenlinkedin');"><i style="float: left;" class="fa fa-linkedin"></i>&nbsp;Check My LinkedIn</button></center><br>
+	<center><button class="info" onclick="window.open('https://bit.ly/vireninstagram');"><i style="float: left;" class="fa fa-instagram"></i>&nbsp;Check My Instagram</button></center><br>
+	<center><button class="info" onclick="window.open('https://bit.ly/VirenFacebook');"><i style="float: left;" class="fa fa-facebook"></i>&nbsp;Check My Facebook</button></center><br>
+	<center><button class="info" onclick="window.open('https://bit.ly/virenwhatsapp');"><i style="float: left;" class="fa fa-whatsapp"></i>&nbsp;Whatsapp Me</button></center><br>
+	<center><button class="info" onclick="window.open('https://bit.ly/VirenGmail');"><i style="float: left;" class="fa fa-envelope"></i>&nbsp;Mail Me</button></center><br>
+	<center><button class="info" onclick="window.open('https://bit.ly/VirenResumeDrive');"><i style="float: left;" class="fa fa-eye"></i>&nbsp;See My Resume</button></center><br>
 
 	
 </div>
