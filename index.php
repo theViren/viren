@@ -40,7 +40,7 @@ function closeNav() {
 }
 </script>
 <br><br><br>
-<h1 style="font-size: 1.8em; text-align: center; color:white; background-color: tomato; padding:10px;">Welcome to My Profile</h1>
+<h1 style="font-size: 1.8em; text-align: center; color:white; background-color: tomato; padding:10px;border-radius: 8em;">Welcome to My Profile</h1>
 <img id="image" src="https://telegra.ph/file/5bce2623751411ba815f9.jpg" alt="Avatar" style="width:200px; "><br>
 <div class="card">
   <div class="container1" style="font-size: .8em;">
