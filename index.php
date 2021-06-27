@@ -56,7 +56,7 @@ function closeNav() {
 	
 	<center><button class="info" onclick="window.open('https://bit.ly/virenaboutme'); "><i style="float: left;" class="fa fa-info-circle"></i>&nbsp;Know About Me</button></center><br>
 	<center><button class="info" onclick="window.open('https://bit.ly/virenlinkedin');"><i style="float: left;" class="fa fa-linkedin"></i>&nbsp;Check My LinkedIn</button></center><br>
-	<center><button class="info" onclick="window.open('https://bit.ly/vireninstagram');"><i style="float: left;" class="fa fa-instagram"></i>&nbsp;Check My Instagram</button></center><br>
+	<center><button class="info" onclick="window.open('https://bit.ly/vireninstagram');"><i style="float: left; clor: blue;" class="fa fa-instagram"></i>&nbsp;Check My Instagram</button></center><br>
 	<center><button class="info" onclick="window.open('https://bit.ly/VirenFacebook');"><i style="float: left;" class="fa fa-facebook"></i>&nbsp;Check My Facebook</button></center><br>
 	<center><button class="info" onclick="window.open('https://bit.ly/virenwhatsapp');"><i style="float: left;" class="fa fa-whatsapp"></i>&nbsp;Whatsapp Me</button></center><br>
 	<center><button class="info" onclick="window.open('https://bit.ly/VirenGmail');"><i style="float: left;" class="fa fa-envelope"></i>&nbsp;Mail Me</button></center><br>
