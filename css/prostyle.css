@@ -38,6 +38,7 @@ body {
 	padding-bottom:20px;
 	text-align: center;
 	border:2px solid white;
+	border-radius: 8px;
 	font-family: monospace;
 	font-size: 1.3em;
 font-weight:900px;
