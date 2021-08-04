@@ -46,7 +46,7 @@ function closeNav() {
   <div class="container1" style="font-size: .8em;">
     <h3><b>Name&nbsp;<i class="fa fa-vine"></i>:</b>&nbsp;<span>Virendra Singh Solanki</span></h3> 
     <h3><b>Email&nbsp;<i class="fa fa-paper-plane"></i>:</b>&nbsp;<span>Viren.353.vss@gmail.com</span></h3>
-    <h3><b>Address&nbsp;<i class="fa fa-address-card"></i>:</b>&nbsp;<span>Bhilwara</span></h3>
+    <h3><b>Address&nbsp;<i class="fa fa-address-card"></i>:</b>&nbsp;<span>Udaipur</span></h3>
     <h3><b>D.O.B&nbsp;<i class="fa fa-birthday-cake"></i>:</b>&nbsp;<span>10 May 1999</span></h3> 
     
   </div>
