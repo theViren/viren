@@ -67,7 +67,6 @@ function closeNav() {
 	
 </div>
 
-<div class="powr-social-feed" id="c17b4d0a_1613658678"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 <!-- Start of WebFreeCounter Code -->
 <center><a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gnpxqc&nd=6&style=80" border="0" alt="visitor counter"></a></center>
 <!-- End of WebFreeCounter Code -->
