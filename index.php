@@ -16,7 +16,9 @@
   <a href="about.php">About Me</a>
   <a href="contact.php">Contact Me</a>
   <a href="Converter.php">Convertor Project</a>
-    <a href="Calculator.php">Calculator Project</a>	
+  <a href="Calculator.php">Calculator Project</a>
+  <a href="https://amazonwebpage.herokuapp.com/">Amazon FrontPage Project</a>
+  <a href="https://theviren.github.io/theViren/">Working SignUp & Login Page</a>	
 
 </div>
 
