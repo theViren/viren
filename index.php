@@ -71,6 +71,11 @@ function closeNav() {
 <!-- Start of WebFreeCounter Code -->
 <center><a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gnpxqc&nd=6&style=80" border="0" alt="visitor counter"></a></center>
 <!-- End of WebFreeCounter Code -->
+	<!-- BEGIN: Powered by Supercounters.com -->
+<center><script type="text/javascript" src="//widget.supercounters.com/ssl/online_i.js"></script><script type="text/javascript">sc_online_i(1624131,"0af0fc","00f7ff");</script><br><noscript><a href="https://www.supercounters.com/">free online counter</a></noscript>
+</center>
+<!-- END: Powered by Supercounters.com -->
+
 <a href="whatsapp://send?text=&#128071See My Resume%20&#128071%20https://theviren.herokuapp.com/" data-action="share/whatsapp/share" class="float" target="_blank"><i class="fa fa-whatsapp my-float"></i>
 </a>
 
