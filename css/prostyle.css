@@ -52,6 +52,26 @@ body {
 	color: #49E2A1;
 
 }
+.info1{
+  width: 20%;
+padding-top:15px;
+padding-bottom:15px;
+text-align: center;
+border:2px solid white;
+border-radius: 8px;
+font-family: monospace;
+font-size: 1.4em;
+  font-weight:bolder;
+color: white;
+text-decoration: none;
+background-color: #49E2A1;
+}
+
+.info1:hover{
+background-color: white;
+color: #49E2A1;
+
+}
 .navbar {
   overflow: hidden;
   background-color: Black;
